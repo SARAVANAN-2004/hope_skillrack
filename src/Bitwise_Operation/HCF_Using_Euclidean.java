@@ -17,6 +17,6 @@ public class HCF_Using_Euclidean {
         if(b == 0){
             return a;
         }
-        return  HCF(b%a,a%b);
+        return  HCF(b,a%b);
     }
 }
