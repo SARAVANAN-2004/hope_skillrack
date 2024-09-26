@@ -1,4 +1,4 @@
-package Knp_agorithm;
+package Kmp_agorithm;
 
 import java.util.Arrays;
 import java.util.Scanner;
